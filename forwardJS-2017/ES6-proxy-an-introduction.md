@@ -5,7 +5,7 @@
 - Help you define custom behavior for fundamental operations
 
 ## Why do proxies exist and why should I use them?
-- Metaprogramming
++ Metaprogramming
  - When code is writing/running itself
  - Changing itself
  - Introspection - read only
