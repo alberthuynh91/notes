@@ -41,8 +41,8 @@ IDL - Interface Definition Language (IDL)
 ## gRPC supports many paradigms
 - Unary RPC
 - Bidirectional Streaming
- - Client-side Streaming
- - Server-side Streaming
+  - Client-side Streaming
+  - Server-side Streaming
 
 ## gRPC supports streaming data both ways (a la websockets)
 
@@ -52,5 +52,5 @@ IDL - Interface Definition Language (IDL)
 - Load balancing has a long way to go
 - Go implementation is meh
 - gRPC web is still a WIP
-- Instable api
+- Unstable api
 - Relatively small community

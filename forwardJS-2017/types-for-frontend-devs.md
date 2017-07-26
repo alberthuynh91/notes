@@ -43,7 +43,8 @@ Static types help make tooling better
 - Extra build step
 - Definition files
 - Interop
-- ANY - dont let typescript infer any to avoid this proble
+- ANY
+  - dont let typescript infer any to avoid this proble
 
 ## Why should ANY be avoided?
 - Undos what we’ve built with static typing.
