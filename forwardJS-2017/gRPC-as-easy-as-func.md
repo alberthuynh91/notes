@@ -18,7 +18,7 @@ Software Engineer at Segment
   - Streaming
   - Bidirectional communication
 
-REST isn't really a standard. REST APIs are a suggestion/guideline/design principle.
+>REST isn't really a standard. REST APIs are a suggestion/guideline/design principle.
 
 ## What is gRPC
 > Calls another systems function over the network without considering the implementation details

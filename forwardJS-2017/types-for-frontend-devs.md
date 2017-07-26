@@ -1,14 +1,13 @@
 # Types for Frontend Developers
 
-Different types of javascript typed libraries: Typescript, Flow, Elm
+## Different types of javascript typed libraries
+- Typescript
+- Flow
+- Elm
 
 Dynamically typed - type checked at runtime
 
 Statically typed - types checked at compile time
-
-Typescript
-
-PuresScript
 
 Type Inference - typescript has this feature
 
@@ -38,18 +37,13 @@ Tooling
 
 Static types help make tooling better
 
-Trade Offs
+## Trade Offs
+- Unfamiliarity
+- Verbosity - increases how verbose your code is. More code has to be written
+- Extra build step
+- Definition files
+- Interop
+- ANY - dont let typescript infer any to avoid this proble
 
-1) Unfamiliarity
-
-2) Verbosity - increases how verbose your code is. More code has to be written
-
-3) Extra build step
-
-4) Definition files
-
-5) Interop
-
-6) ANY - dont let typescript infer any to avoid this proble
-
-Why should ANY be avoided? Undos what we’ve built with static typing.
+## Why should ANY be avoided?
+- Undos what we’ve built with static typing.
