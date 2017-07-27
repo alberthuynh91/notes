@@ -1,6 +1,6 @@
 # Squeezing PNG and JPEG
+>Goal: Reduce the file size without any noticeable loss of visual quality
 
-- Goal: Reduce the file size without any noticeable loss of visual quality
 - Three steps: Identify trade-offs -> reduce details -> and encode exhaustively
 
 ## Squeezing PNG (Portable Network Graphics)
