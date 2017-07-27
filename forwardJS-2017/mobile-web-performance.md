@@ -49,10 +49,22 @@
 - Only load needed resources
 - Don't scale images with HTML
 - Minimize size & optimize media
-  - Optimize all images. Server the smallest image file for the screen size and resolution
+  - Optimize all images
+    - Server the smallest image file for the screen size and resolution
+    - Scaling images is very slow
+    - Image compression
+      - ImageOptim
+      - ImageAlpha
+      - TinyPNG
+      - Photoshop
+      - Etc
+      - Smartvision
+    - Use the right image format for the page
+    - Reduce the number of images
 - Put CSS in the <head>
 - Put JS at the bottom
 - Minify your code
+- Optimize source order
 
 ## Configure the viewport
 > Often overlooked, but very important for improving performance
