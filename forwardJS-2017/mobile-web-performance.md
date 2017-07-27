@@ -6,7 +6,7 @@
 ## Current Ecosystem
 - Less than half of the world are still not online
 - We have to be conscious of screen size, RAM, battery life, and CPU capabilities.
-- Our websites are now a lot bigger, which is why on 3g is not performing the same way as it was previously
+- Our websites are now a lot bigger, which is why 3g is not performing the same as it was in the past
 
 ## Loading a page
 - Download - # of files needed for the page
@@ -25,11 +25,6 @@
 
 ## Knowns / Unknowns
 > Be conscious of the things you know and don't know
-
-- Knowns
-  - # of HTTP requests
-  - # of bytes
-- Unknowns
 
 ## Tools
 - YSlow
@@ -65,12 +60,9 @@
 - Put JS at the bottom
 - Minify your code
 - Optimize source order
+- Be conscious of the front end frameworks you use
 
 ## Configure the viewport
 > Often overlooked, but very important for improving performance
 
 `<meta name="viewport" content="width=device-width, ...">`
-
-## Performance Concerns
-
-## Issues and Concerns
